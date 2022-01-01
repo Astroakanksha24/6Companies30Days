@@ -28,3 +28,7 @@ int main() {
         cout << ans << "\n";
     }
 } 
+
+//reference 
+//https://leetcode.com/problems/rectangle-overlap/discuss/133175/C%2B%2B-Solution-with-easy-explanation
+//https://www.geeksforgeeks.org/find-two-rectangles-overlap/
